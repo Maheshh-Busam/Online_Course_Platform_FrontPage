@@ -1,6 +1,6 @@
 ONLINE COURSE PLATFORM FRONT PAGE...................
 
-HereI have designed front end page like an Online Course Platform Front Page.
+Here I have designed a front end page like an Online Course Platform Front Page.                                                                                            
 Programming Languages : HTML, CSS
 Tools : Visual Studio Code.
 
